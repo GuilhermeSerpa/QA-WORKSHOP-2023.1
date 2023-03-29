@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(250, 9, 9);
+    background-image: url(img/super_mario_capa_galeria_2020.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Press Start 2P', cursive;
+    color: aliceblue;
+}
